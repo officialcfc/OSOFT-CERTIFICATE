@@ -1,0 +1,82 @@
+body {
+    width: 98%;
+    background-image: url(./Achievement.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo img {
+    margin-top: 150px;
+    width: 20%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-left: 20px;
+}
+
+.tag1 h1, h3 {
+    margin: 0px;
+    padding: 0px;
+}
+.tag1-col h1 {
+    font-size: 45px;
+    color: rgba(224, 9, 9, 0.829);
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.tag1 h3 {
+font-size: 36px;
+text-align: left;
+font-family: sans-serif;
+color: rgb(65, 63, 63);
+margin-left: 20px;
+}
+
+.tag1-col p {
+    font-weight: 700;
+    margin-right: 35px;
+}
+.tag2 h3 {
+    margin-top: 420px;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: black;
+    font-family: "Sofia", sans-serif;
+    margin-left: 20px;
+}
+
+.tag3 p {
+    width: 80%;
+    margin-left: 70px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.oslogo {
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.oslogo img {
+    width: 50%;
+}
+
+.oslogo-col p, h4 {
+    margin: 0px;
+    padding: 5px;
+    margin-right: 80px;
+    text-align: center
+}
+
+.oslogo-col h4 {
+    margin-top: 20px;
+}
